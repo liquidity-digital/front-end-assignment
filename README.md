@@ -16,3 +16,8 @@ Build a layout for a page from 🍷 wine collection web app.
 - Score 90+ on lighthouse
 - Use any UI framework of your choice. Be ready to explain why did you pick it
 - Time to finish: 4 hours
+
+## Bonus points for
+- Typescript
+- Test coverage
+- CI/CD
