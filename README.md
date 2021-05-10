@@ -10,7 +10,7 @@ Build a layout for a page from 🍷 wine collection web app.
 
 ## Pre-requisites
 - Use React.js
-- Valid, responsive layout
+- Valid layout
 - Show off your ability to manage components (inline-css, styled-components, scss/less, css modules)
 - CSS Grid and Flexbox exposed
 - Score 90+ on lighthouse
